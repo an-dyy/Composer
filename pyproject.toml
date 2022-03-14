@@ -5,6 +5,9 @@ description = "A library for making dataclasses"
 authors = ["andy <andy.development@protonmail.com>"]
 license = "MIT"
 
+readme = "README.rst"
+keywords = ["dataclass"]
+homepage = "https://github.com/an-dyy/Composer"
 packages = [{include="composer"}]
 
 [tool.poetry.dependencies]
